@@ -14,6 +14,5 @@ jobs:
       name: Spellcheck
       with:
         config_path: .github/config/spellcheck.yml
-        source_files: README.md .github/CODE_OF_CONDUCT.md
         task_name: Markdown
         output_file: spellcheck-output.txt
