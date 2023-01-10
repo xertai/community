@@ -1,4 +1,6 @@
+Deleware
 XertAI
+Computelify
 sexualized
 html
 https
@@ -7,3 +9,8 @@ faq
 https
 www
 socio
+CLA
+sublicense
+sublicensees
+transferees
+
