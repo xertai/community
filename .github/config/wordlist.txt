@@ -6,4 +6,4 @@ www
 faq
 https
 www
-socio-economic
+socio
