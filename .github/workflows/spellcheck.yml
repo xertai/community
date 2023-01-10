@@ -1,3 +1,7 @@
+# Spellcheck workflow configuraiton
+# Documented in depth:
+# - https://github.com/marketplace/actions/github-spellcheck-action
+
 name: spellcheck
 on:
   pull_request:
